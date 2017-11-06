@@ -21,15 +21,17 @@ For Yarn:
 
 ```yarn start```
 
+Then open `http://localhost:3000` in browser.
+
 ### Build for production
 
-```npm run Build```
+```npm run built```
 
 For Yarn:
 
-```yarn start```
+```yarn built```
 
-### Running express server 
+### Run the express server 
 
 ```npm run prod```
 
