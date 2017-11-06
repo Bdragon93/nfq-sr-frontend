@@ -1,0 +1,12 @@
+@import './_normalize.scss';
+
+header > h1 {
+  margin-top: 10px;
+}
+
+button {
+  > i:first-child {
+    margin-right: 3px;
+  }
+}
+

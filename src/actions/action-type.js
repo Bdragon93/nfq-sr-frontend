@@ -1,0 +1,2 @@
+export const ADDRESS_FETCH_ALL = 'ADDRESS_FETCH_ALL';
+export const ADDRESS_SET = 'ADDRESS_SET';
